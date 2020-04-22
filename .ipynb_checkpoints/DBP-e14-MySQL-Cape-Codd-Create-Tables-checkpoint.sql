@@ -99,15 +99,5 @@ CREATE TABLE CATALOG_SKU_2015 (
 	);
     
 ALTER TABLE CATALOG_SKU_2013 AUTO_INCREMENT = 20150001;
-
-%load_ext sql
-%sql mysql+pymysql://ba510student:ba510@database-01202.c55qjoeogr2p.us-east-2.rds.amazonaws.com
-
-
-
-
-
-
-
-
+    
     
